@@ -8,7 +8,7 @@ She has access to a JavaScript data file with various sighting information such 
 For this project, Dana has created additional filters to provide a more in-depth analysis to support her article.  We will review the results of this new search criteria and provide any drawbacks and recommendations to Dana for further development.
 
 ## **2. Results**
-With the updated [UFO HTML page](file:///Users/inky.son/Columbia_Class/Module_11_JavaScript/UFOs/index.html) visitors are now able to filter the table using multiple criteria simultaneously.  
+With the updated webpage visitors are now able to filter the table using multiple criteria simultaneously.  
 
 **Search criteria process:**
 - You can filter by individual criteria.  For example, if you want to see what UFO sightings occurred on 1/9/2010, you can enter the date and the table will filter all sightings for this date. 
